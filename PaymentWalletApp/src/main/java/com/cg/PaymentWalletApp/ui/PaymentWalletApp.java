@@ -6,4 +6,5 @@ public class PaymentWalletApp
 		
 	}
 
+	public void paymentWalletApp() {}
 }
